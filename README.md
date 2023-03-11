@@ -1,3 +1,8 @@
+# Test the live app with below url
+[Live Url ](https://master--cool-brigadeiros-dbb989.netlify.app/)
+
+## You should run a json-server for data to be received on the career page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
